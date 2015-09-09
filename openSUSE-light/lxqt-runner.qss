@@ -10,6 +10,6 @@ Dialog {}
 }
 
 #commandList {
-  border: none;
+  border: 5px solid green;
   margin: 0 1px 1px 1px;
 }
